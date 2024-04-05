@@ -1,0 +1,42 @@
+# Dependency directories
+/node_modules/
+
+# Environment configuration files
+.env
+
+# Build outputs
+/build/
+
+# TypeScript build outputs
+*.js
+*.js.map
+*.d.ts
+
+# Logs
+*.log
+npm-debug.log*
+
+# IDE and editor directories
+/.idea/
+/.vscode/
+*.swp
+*.swo
+
+# Operating system files
+.DS_Store
+Thumbs.db
+
+# Coverage directory used by tools like Istanbul
+/coverage
+
+# nyc test coverage
+.nyc_output
+
+# Jest test results
+/jest-test-results.json
+
+# TypeScript cache
+/.ts-node/
+
+# Compiled output
+/tsconfig.tsbuildinfo
